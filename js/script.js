@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@fritzjackhunt
-kimsumin411 /
-mod5_solution
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-mod5_solution/js/script.js /
-@kimsumin411
-kimsumin411 Update script.js
-Latest commit 5e3d4c6 8 days ago
-History
-1 contributor
-343 lines (286 sloc) 11.1 KB
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...
@@ -373,18 +341,3 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
